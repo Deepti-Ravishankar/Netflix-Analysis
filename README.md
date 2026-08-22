@@ -71,16 +71,16 @@ Streaming platforms compete on catalog depth and relevance. Decisions about cont
 
 <table>
 <tr>
-<td><img src="assets/nf_type_mix.png" width="420"/></td>
-<td><img src="assets/nf_growth.png" width="420"/></td>
+<td><img src="nf_type_mix.png" width="420"/></td>
+<td><img src="nf_growth.png" width="420"/></td>
 </tr>
 <tr>
-<td><img src="assets/nf_top_countries.png" width="420"/></td>
-<td><img src="assets/nf_top_genres.png" width="420"/></td>
+<td><img src="nf_top_countries.png" width="420"/></td>
+<td><img src="nf_top_genres.png" width="420"/></td>
 </tr>
 <tr>
-<td><img src="assets/nf_ratings.png" width="420"/></td>
-<td><img src="assets/nf_duration_trend.png" width="420"/></td>
+<td><img src="nf_ratings.png" width="420"/></td>
+<td><img src="nf_duration_trend.png" width="420"/></td>
 </tr>
 </table>
 
